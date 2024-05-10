@@ -1,6 +1,7 @@
-# LPOO
+# LPOO - UFMS
 
-Repositório de Exercícios de LPOO
+Repositório de Exercícios de LPOO da faculdade Universidade Federal de Mato Grosso do Sul
+Terceiro Semestre
 
 ## Descrição
 
